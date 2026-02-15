@@ -8,8 +8,6 @@
 ▒██████▒▒ ▒██▒ ░ ░▒████▒▓█ ▓██▒▒██▒ ░██▒
 ```
 
-**By FLT** | *FAiRLIGHT HOLY ANGELS* | 2026
-
 ### What It Does
 Standalone .exe that **modifies Steam locally** by injecting keys to config.vdf, creates appmanifest.acf, and dumps game folder.
 
@@ -42,4 +40,4 @@ Standalone .exe that **modifies Steam locally** by injecting keys to config.vdf,
 
 **License**: MIT 
 
-*By FCT | FAirLIGHT HOLY ANGELS | 2026* 
+*By FLT | FAirLIGHT HOLY ANGELS | 2026* 
