@@ -1,4 +1,4 @@
-# INJ3CT0R v1.0 - Steam Lua Hacker
+# STEAM-UG 
 
 ```
   ██████ ▄▄▄█████▓▓█████ ▄▄▄ ███▄ ▄███▓
@@ -8,19 +8,18 @@
 ▒██████▒▒ ▒██▒ ░ ░▒████▒▓█ ▓██▒▒██▒ ░██▒
 ```
 
-**By VENKAT** | *Chennai Underground* | 2026
+**By FLT** | *FAiRLIGHT HOLY ANGELS* | 2026
 
 ### What It Does
-Standalone .exe that **hacks Steam locally** — fetches Lua/manifests from cysaw.pw, injects keys to config.vdf, creates appmanifest.acf, and dumps game folder. No traces, no mercy.
+Standalone .exe that **modifies Steam locally** by injecting keys to config.vdf, creates appmanifest.acf, and dumps game folder.
 
 ### Features
-- **Zero-Click Injection**: Enter AppID → Done.
-- **Bundled Chaos**: ZIP to Downloads, game folder in script dir.
-- **Key Extraction**: Parses Lua like a boss.
-- **Portable**: Runs anywhere, no Python.
+- **Zero-Click Injection**: Enter AppID 
+- **Bundled**: ZIP to Downloads
+- **Portable**: Runs anywhere
 
 ### Quick Hack
-1. Run `injector.exe` (as admin).
+1. Run `STEAM-UG Launcher.exe` (as admin).
 2. Enter AppID (e.g., `730`).
 3. Watch magic:
    ```
@@ -30,17 +29,17 @@ Standalone .exe that **hacks Steam locally** — fetches Lua/manifests from cysa
    Created appmanifest_730.acf
    SUCCESS!
    ```
-4. Restart Steam → Loot acquired.
+4. Restart Steam
 
 ### Targets
 - `STEAM_PATH = r"C:\Program Files (x86)\Steam"` — Change if custom install.
 
 ### Warnings
 - **Local Only**: Works on this PC. Multi-device? Dream on.
-- **Ban Risk**: Valve sniffs this — use throwaway account.
-- **Malware Alert**: Lua files can bite. Scan everything.
-- **Legal**: Educational tool. Don't be a pirate, buy on sale.
+- **Ban Risk**: Valve sniffs this so it's a best practise to use throwaway account.
+- **Malware Alert**: It's legit. Source: Trust Me Bro!!
+- **Legal**: Crack all day. Anyday
 
-**License**: MIT — Fork it, break it, own it.
+**License**: MIT 
 
-*Hacked by VENKAT | No Logs, No Mercy | 2026* 🏴‍☠️
+*By FCT | FAirLIGHT HOLY ANGELS | 2026* 
